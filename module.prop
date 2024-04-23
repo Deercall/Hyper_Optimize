@@ -3,5 +3,5 @@ name=HyperOS优化
 version=1.2.2
 versionCode=12200
 author=猫羽今天吃什么（酷安）
-updateJson =#
+updateJson =https://raw.githubusercontent.com/Deercall/Hyper_Optimize/main/module.json
 description=优化开机速度，QQ微信内存压制。优化内存管理，凌晨自动优化。补全高级材质2.0，开启桌面多线程渲染，开启游戏进入三倍速特性，补全哈曼卡顿优化音质，开机禁用logd，优化QQ卡顿问题 模块发布群：885886478
