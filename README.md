@@ -1,5 +1,6 @@
 # Hyper_Optimize
 ## HyperOS optimization module!
+## HyperOS优化模块！
 ## 概述
 **Hyper_Optimize** 是一个 Magisk & KernelSU & APatch 模块，旨在优化 Android 设备的性能和内存管理。它提供了一系列功能，可以改善系统的响应速度、内存使用和应用程序运行效率。
 
