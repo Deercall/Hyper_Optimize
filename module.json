@@ -2,5 +2,5 @@
     "version": "1.23",
     "versionCode": 12300,
     "zipUrl": "https://github.com/Deercall/Hyper_Optimize/releases/download/Hyper_Optimize1.23/Hyper_Optimize1.23.zip",
-    "changelog": "https://github.com/Deercall/Hyper_Optimize/blob/main/module.md"
+    "changelog": "https://raw.githubusercontent.com/Deercall/Hyper_Optimize/main/module.md"
 }
